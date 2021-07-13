@@ -8,9 +8,9 @@ The main product of this repo is the Power BI dashboard. This is an interactive 
 The dashboard features:
 Markup : -	United States map displaying the count of jobs per state
 
-•	Line and clustered column chart of top ten companies based on average review count and star rating
+-	Line and clustered column chart of top ten companies based on average review count and star rating
 
-•	Clustered bar chart of top five companies based on average star rating
+*	Clustered bar chart of top five companies based on average star rating
 
 •	Donut chart of company size for less than 10,000 people compared to more than 10,000
 
