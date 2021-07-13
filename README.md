@@ -12,5 +12,8 @@ The dashboard features:
 - Donut chart of company size for less than 10,000 people compared to more than 10,000
 - Treemap of top ten titles for the Data Analytics field
 
+![image](https://user-images.githubusercontent.com/77589773/125516603-b6f74f2f-89b6-4b6d-b010-394f33bb253c.png)
+
+
 
 
