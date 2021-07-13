@@ -4,7 +4,7 @@ Utilizing Power BI to display top data analyst jobs, companies, and locations.
 
 The main product of this repo is the Power BI dashboard. This is an interactive dashboard that contains data focusing on several data analyst jobs and the companies associated.
 
-Dashboard Link: https://app.powerbi.com/groups/me/reports/9bc7cd11-099e-4016-9290-1a72a5d9f61f?ctid=101da587-1843-4f52-8b8a-17b069c66d33&pbi_source=linkShare 
+Dashboard link: https://app.powerbi.com/groups/me/reports/9bc7cd11-099e-4016-9290-1a72a5d9f61f?ctid=101da587-1843-4f52-8b8a-17b069c66d33&pbi_source=linkShare 
 
 The dashboard features:
 -	United States map displaying the count of jobs per state
