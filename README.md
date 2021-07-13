@@ -6,8 +6,7 @@ Dashboard Link: https://app.powerbi.com/groups/me/reports/9bc7cd11-099e-4016-929
 The main product of this repo is the Power BI dashboard. This is an interactive dashboard that contains data focusing on several data analyst jobs and the companies associated. 
 
 The dashboard features:
-
-•	United States map displaying the count of jobs per state
+Markup : -	United States map displaying the count of jobs per state
 
 •	Line and clustered column chart of top ten companies based on average review count and star rating
 
