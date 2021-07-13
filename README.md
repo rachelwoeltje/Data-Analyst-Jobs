@@ -14,6 +14,7 @@ The dashboard features:
 
 ![image](https://user-images.githubusercontent.com/77589773/125517035-692b7960-6cc2-4f8d-a72d-f65149272ede.png)
 
+## Technologies
 
 
 
