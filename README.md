@@ -11,7 +11,7 @@ The dashboard features:
 -	Clustered bar chart of top five companies based on average star rating
 - Donut chart of company size for less than 10,000 people compared to more than 10,000
 - Treemap of top ten titles for the Data Analytics field
-- 
+
 ![image](https://user-images.githubusercontent.com/77589773/125517035-692b7960-6cc2-4f8d-a72d-f65149272ede.png)
 
 
